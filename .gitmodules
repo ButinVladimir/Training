@@ -4,3 +4,6 @@
 [submodule "Algorithms"]
 	path = Algorithms
 	url = https://github.com/ButinVladimir/Training-Algorithms.git
+[submodule "Advanced Datepicker"]
+	path = Advanced Datepicker
+	url = https://github.com/ButinVladimir/Training-Advanced-Datepicker.git
