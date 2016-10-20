@@ -5,11 +5,21 @@ To load all repostories use commands
 
 ```
 git submodule init
-git submodule foreach update
+git submodule update
 ```
 
 ### Scripts
 
+#### Advanced Datepicker
+
+Calendar task, written with JS/HTML/CSS/jQuery
+
+#### Algorithms
+
+Various algorithms in C#
+
 #### Datepicker
 
 Datepicker task, written in pure HTML/JS/CSS.
+
+
