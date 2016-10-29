@@ -7,3 +7,6 @@
 [submodule "Advanced Datepicker"]
 	path = Advanced Datepicker
 	url = https://github.com/ButinVladimir/Training-Advanced-Datepicker.git
+[submodule "Template"]
+	path = Template
+	url = https://github.com/ButinVladimir/Training-Template.git
