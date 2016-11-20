@@ -14,6 +14,10 @@ git submodule update
 
 Calendar task, written with JS/HTML/CSS/jQuery
 
+#### Advanced Template
+
+Advanced template markup task, written with pug/SCSS with Gulp.
+
 #### Algorithms
 
 Various algorithms in C#

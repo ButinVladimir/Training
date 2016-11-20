@@ -10,3 +10,6 @@
 [submodule "Template"]
 	path = Template
 	url = https://github.com/ButinVladimir/Training-Template.git
+[submodule "Advanced Template"]
+	path = Advanced Template
+	url = https://github.com/ButinVladimir/Training-Advanced-Template.git
