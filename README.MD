@@ -12,7 +12,7 @@ git submodule update
 
 #### Advanced Datepicker
 
-Calendar task, written with JS/HTML/CSS/jQuery
+Calendar task, written with JS/HTML/CSS/jQuery/Gulp
 
 #### Algorithms
 
