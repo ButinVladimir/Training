@@ -20,7 +20,7 @@ Various algorithms in C#
 
 #### Datepicker
 
-Datepicker task, written in pure HTML/JS/CSS
+Datepicker task, written in pure HTML/JS/CSS + Gulp
 
 #### Template
 
