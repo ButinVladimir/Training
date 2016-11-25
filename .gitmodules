@@ -13,3 +13,6 @@
 [submodule "Advanced Template"]
 	path = Advanced Template
 	url = https://github.com/ButinVladimir/Training-Advanced-Template.git
+[submodule "WYSIWYG Editor"]
+	path = WYSIWYG Editor
+	url = https://github.com/ButinVladimir/Training-WYSIWYG-Editor.git
