@@ -16,3 +16,7 @@
 [submodule "WYSIWYG Editor"]
 	path = WYSIWYG Editor
 	url = https://github.com/ButinVladimir/Training-WYSIWYG-Editor.git
+[submodule "Typescript Datepicker"]
+	path = Typescript Datepicker
+	url = https://github.com/ButinVladimir/Training-Typescript-Datepicker.git
+	branch = master
