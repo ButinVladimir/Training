@@ -20,3 +20,7 @@
 	path = Typescript Datepicker
 	url = https://github.com/ButinVladimir/Training-Typescript-Datepicker.git
 	branch = master
+[submodule "Typescript Advanced Datepicker"]
+	path = Typescript Advanced Datepicker
+	url = https://github.com/ButinVladimir/Training-Typescript-Advanced-Datepicker.git
+	branch = master

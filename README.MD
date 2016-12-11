@@ -30,4 +30,14 @@ Datepicker task, written in pure HTML/JS/CSS + Gulp
 
 Template markup task, written in HTML/CSS with Grunt
 
+#### Typescript Datepicker
 
+Datepicker task, written in HTML/Typescript/CSS + Webpack
+
+#### Typescript Advanced Datepicker
+
+Calendar task, written in HTML/Typescript/CSS/jQuery + Webpack
+
+#### WYSIWYG Editor
+
+WYSIWYG web page editor task, written in JS/HTML/CSS/JQuery/Gulp/Browserify/Bower
