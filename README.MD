@@ -38,6 +38,10 @@ Datepicker task, written in HTML/Typescript/CSS + Webpack
 
 Calendar task, written in HTML/Typescript/CSS/jQuery + Webpack
 
+#### Typescript WYSIWYG Editor
+
+WYSIWYG web page editor task, written in HTML/Typescript/CSS/jQuery + Webpack
+
 #### WYSIWYG Editor
 
 WYSIWYG web page editor task, written in JS/HTML/CSS/JQuery/Gulp/Browserify/Bower
