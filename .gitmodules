@@ -28,3 +28,6 @@
 	path = Typescript WYSIWYG Editor
 	url = https://github.com/ButinVladimir/Training-Typescript-WYSIWYG-Editor.git
 	branch = master
+[submodule "DeviantART"]
+	path = DeviantART
+	url = https://github.com/ButinVladimir/Training-DeviantART-NET-Helper.git
