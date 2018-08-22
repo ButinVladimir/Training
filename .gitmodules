@@ -31,3 +31,6 @@
 [submodule "DeviantART"]
 	path = DeviantART
 	url = https://github.com/ButinVladimir/Training-DeviantART-NET-Helper.git
+[submodule "React Select2"]
+	path = React Select2
+	url = https://github.com/ButinVladimir/Training-Select2-React.git
