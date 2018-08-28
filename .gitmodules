@@ -34,3 +34,6 @@
 [submodule "React Select2"]
 	path = React Select2
 	url = https://github.com/ButinVladimir/Training-Select2-React.git
+[submodule "React Chat"]
+	path = React Chat
+	url = https://github.com/ButinVladimir/Training-Chat-React.git
