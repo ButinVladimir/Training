@@ -45,3 +45,15 @@ WYSIWYG web page editor task, written in HTML/Typescript/CSS/jQuery + Webpack
 #### WYSIWYG Editor
 
 WYSIWYG web page editor task, written in JS/HTML/CSS/JQuery/Gulp/Browserify/Bower
+
+#### React Chat
+
+Select2 plugin for react made as training exercise
+
+#### React Select2
+
+Simple chat training project written using React, Redux, Jest, Enzyme and socket.io
+
+#### React Drawboard
+
+Drawboard written using React and socket.io

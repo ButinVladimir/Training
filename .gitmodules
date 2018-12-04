@@ -37,3 +37,6 @@
 [submodule "React Chat"]
 	path = React Chat
 	url = https://github.com/ButinVladimir/Training-Chat-React.git
+[submodule "React Drawboard"]
+	path = React Drawboard
+	url = https://github.com/ButinVladimir/Training-React-Drawboard.git

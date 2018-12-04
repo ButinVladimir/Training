@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "React Drawboard"
+		}
+	],
+	"settings": {
+		"typescript.format.enable": false,
+		"typescript.tsc.autoDetect": "off",
+	}
+}
