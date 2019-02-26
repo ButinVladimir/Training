@@ -16,11 +16,11 @@ Calendar task, written with JS/HTML/CSS/jQuery/Gulp
 
 #### Advanced Template
 
-Advanced template markup task, written with pug/SCSS with Gulp.
+Advanced template markup task, written with pug/SCSS with Gulp
 
 #### Algorithms
 
-Various algorithms in C#
+Various algorithms in C# and C++
 
 #### Datepicker
 
@@ -56,4 +56,4 @@ Simple chat training project written using React, Redux, Jest, Enzyme and socket
 
 #### React Drawboard
 
-Drawboard written using React and socket.io
+Drawboard written using React, socket.io, Jest and Enzyme
